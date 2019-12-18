@@ -8,7 +8,7 @@ function happyHolidays(string){
 
 function happyHolidaysTo()
 {
-  return string(`Happy holidays, ${name}`)
+  return string("Happy holidays, ${name}")
 }
 
 happyHolidaysTo('a')
